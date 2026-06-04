@@ -26,12 +26,12 @@ Read quotes anytime in a clean and minimal interface.
 ## Screenshots:
 
 One
-![One](https://github.com/nirajwagh/motivational_quotes_android_app/blob/master/Screenshots/1.png)
+![](https://github.com/nirajwagh/motivational_quotes_android_app/blob/master/Screenshots/1.png)
 
 
 Six
-![Six](https://github.com/nirajwagh/motivational_quotes_android_app/blob/master/Screenshots/2.png)
+![](https://github.com/nirajwagh/motivational_quotes_android_app/blob/master/Screenshots/2.png)
 
 
 Five
-![Five](https://github.com/nirajwagh/motivational_quotes_android_app/blob/master/Screenshots/3.png)
+![](https://github.com/nirajwagh/motivational_quotes_android_app/blob/master/Screenshots/3.png)

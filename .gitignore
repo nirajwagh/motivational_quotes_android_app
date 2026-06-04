@@ -12,3 +12,14 @@
 /captures
 .externalNativeBuild
 .cxx
+.idea/
+*.apk
+*.aab
+/release/
+app/release/
+APK/
+Apk Download/
+*.jks
+*.keystore
+local.properties
+/build

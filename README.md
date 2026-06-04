@@ -17,7 +17,7 @@ Read quotes anytime in a clean and minimal interface.
 
 ## Play Store
 
-**[Play Store Link] https://play.google.com/store/apps/details?id=in.waghtech.motivationalquotes**
+**[Play Store Link](https://play.google.com/store/apps/details?id=in.waghtech.motivationalquotes)**
 
 ## Download
 

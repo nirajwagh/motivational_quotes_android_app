@@ -25,13 +25,13 @@ Read quotes anytime in a clean and minimal interface.
 
 ## Screenshots:
 
-One
+
 ![](https://github.com/nirajwagh/motivational_quotes_android_app/blob/master/Screenshots/1.png)
 
 
-Six
+
 ![](https://github.com/nirajwagh/motivational_quotes_android_app/blob/master/Screenshots/2.png)
 
 
-Five
+
 ![](https://github.com/nirajwagh/motivational_quotes_android_app/blob/master/Screenshots/3.png)
